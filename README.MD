@@ -20,7 +20,7 @@ This Streamlit-based application utilizes YOLOv5, a popular object detection mod
 `
 
 3- Install dependencies:
-`pip install -r requirements.txt
+`pip install pip install streamlit Pillow yolov5
 `
 
 ### Usage
